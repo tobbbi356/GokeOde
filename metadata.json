@@ -1,0 +1,6 @@
+{
+  "name": "Goke Ode Ministry",
+  "description": "Premium ministry and discography portal for Goke Ode featuring a customized Connect bento hub, live interactive KCC 2026 registration tickets, automated prayer wall, and high-fidelity media archives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
